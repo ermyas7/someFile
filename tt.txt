@@ -1,8 +1,3 @@
 hello World!
-/dev/loop0: TYPE="squashfs"
-/dev/loop1: TYPE="squashfs"
-/dev/loop2: TYPE="squashfs"
-/dev/loop3: TYPE="squashfs"
-/dev/sda5: UUID="caa737e9-6b0f-4b1a-81b9-7fce1db999cd" TYPE="swap" PARTUUID="6ce6b8eb-05"
-/dev/sda6: UUID="d634f411-ea52-48a6-b553-7abdde429e5d" TYPE="ext4" PARTUUID="6ce6b8eb-06"
-/dev/sda7: LABEL="kali" UUID="0b91416e-90fc-4887-8ff6-122a799fafdf" TYPE="ext4" PARTUUID="6ce6b8eb-07"
+ermyas
+3ll*oIIXc4#QG224$c
